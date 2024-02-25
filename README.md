@@ -1,5 +1,6 @@
 # LWJGL-Brakeout-Game
 ![Screenshot of program](screenshots/javaw_25-02-2024_14-34-20.png)
+
 An in-progress arcade-style block breaking game. This was created in Java with OpenGL via LWJGL. The code was made following a C/C++ tutorial by [LearnOpenGL](https://learnopengl.com/In-Practice/2D-Game/Breakout). The graphics are my own.
 
 Controls:
